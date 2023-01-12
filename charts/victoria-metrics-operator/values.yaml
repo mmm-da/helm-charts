@@ -18,7 +18,7 @@ replicaCount: 1
 # -- Secret to pull images
 imagePullSecrets: []
 
-# -- VM operatror deployment name override
+# -- VM operator deployment name override
 nameOverride: ""
 
 # -- Overrides the full name of server component
